@@ -6,15 +6,52 @@
       {
         "id": "18eeb5307e81d9fa",
         "type": "tabs",
+        "dimension": 77.06093189964157,
         "children": [
           {
             "id": "cdefa8b592801faf",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "unlinked.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "unlinked"
+            }
+          },
+          {
+            "id": "2eb474f00ad33341",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "the-peggies.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "the-peggies"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "d7ab14697d03a9fa",
+        "type": "tabs",
+        "dimension": 22.939068100358423,
+        "children": [
+          {
+            "id": "0c31c8eccde387b8",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -176,6 +213,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "b40654f6e26fc8dd",
-  "lastOpenFiles": []
+  "active": "0c31c8eccde387b8",
+  "lastOpenFiles": [
+    "the-peggies.md",
+    "unlinked.md",
+    "README.md",
+    "LICENSE"
+  ]
 }
