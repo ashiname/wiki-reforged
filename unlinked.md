@@ -1,1 +1,1 @@
-[[the-peggies]]
+[the-peggies](the-peggies.md)

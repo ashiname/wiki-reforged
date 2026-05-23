@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "unlinked.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "unlinked"
+              "title": "README"
             }
           },
           {
@@ -36,8 +36,7 @@
               "title": "the-peggies"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "d7ab14697d03a9fa",
@@ -213,10 +212,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "0c31c8eccde387b8",
+  "active": "cdefa8b592801faf",
   "lastOpenFiles": [
-    "the-peggies.md",
     "unlinked.md",
+    "the-peggies.md",
     "README.md",
     "LICENSE"
   ]
