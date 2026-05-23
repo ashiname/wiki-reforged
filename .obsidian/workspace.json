@@ -38,7 +38,8 @@
               "title": "tv-tropes"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "304767c23cb4e1c2",
@@ -217,10 +218,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "cdefa8b592801faf",
+  "active": "e453272f0095e156",
   "lastOpenFiles": [
-    "tv-tropes.md",
     "unlinked.md",
+    "tv-tropes.md",
     "deca-dence.md",
     "my-little-pony-g5.md",
     "dexter.md",

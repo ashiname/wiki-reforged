@@ -13,7 +13,9 @@ A Better Tomorrow 1986
 - polícia atrasada para cena do confronto
 - carnificina
 - irmão mais velho criminoso
+
 <br>
+
 - ["Groundhog Day" Loop - TV Tropes](https://tvtropes.org/pmwiki/pmwiki.php/Main/GroundhogDayLoop)
 - [izanagi naruto - Google Search](https://www.google.com/search?q=izanagi+naruto&client=firefox-b-d&sca_esv=da8ffb943f19aa7d&sxsrf=AHTn8zoshlJMBMocCx9w9aVYQVRkOhkYVg%3A1745959087025&ei=rzgRaNaaAdnU1sQP98rZiAU&ved=0ahUKEwiWrrK5jP6MAxVZqpUCHXdlFlEQ4dUDCBA&uact=5&oq=izanagi+naruto&gs_lp=Egxnd3Mtd2l6LXNlcnAiDml6YW5hZ2kgbmFydXRvMhAQABiABBixAxiDARgUGIcCMgoQABiABBhDGIoFMgoQABiABBgUGIcCMgUQABiABDIFEAAYgAQyCBAAGIAEGMsBMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABEjsFFCqAli9E3ADeAGQAQGYAd4BoAHVCKoBBTMuNS4xuAEDyAEA-AEBmAILoAKkB8ICChAAGLADGNYEGEfCAg0QABiABBiwAxhDGIoFwgIOEAAYsAMY5AIY1gTYAQHCAhAQLhiwAxjWBBhHGMgD2AEBwgITEC4YgAQYsAMYQxjIAxiKBdgBAcICEBAAGIAEGLEDGEMYgwEYigXCAgoQLhiABBhDGIoFwgIFEC4YgATCAgsQLhiABBjHARivAcICBhAAGBYYHpgDAIgGAZAGEboGBggBEAEYCZIHAzYuNaAHrTqyBwMzLjW4B5QH&sclient=gws-wiz-serp)
 - [tv trope born without powers in a world of powers - Google Search](https://www.google.com/search?q=tv+trope+born+without+powers+in+a+world+of+powers&client=firefox-b-d&sca_esv=7d099bbf6164ed12&sxsrf=AHTn8zo-RFgKffzavaxVJfpur-xn8LR4qw%3A1745903924975&ei=NGEQaKSNO5XF5OUPzta1mAM&ved=0ahUKEwik94n6vvyMAxWVIrkGHU5rDTMQ4dUDCBA&uact=5&oq=tv+trope+born+without+powers+in+a+world+of+powers&gs_lp=Egxnd3Mtd2l6LXNlcnAiMXR2IHRyb3BlIGJvcm4gd2l0aG91dCBwb3dlcnMgaW4gYSB3b3JsZCBvZiBwb3dlcnMyBRAhGKABMgUQIRigATIFECEYoAFIpCRQoQRY7SNwAXgBkAEAmAHTAaABixSqAQYwLjE5LjG4AQPIAQD4AQGYAhWgAtYUwgIKEAAYsAMY1gQYR8ICBRAhGKsCwgIFECEYnwWYAwCIBgGQBgiSBwYxLjE5LjGgB89usgcGMC4xOS4xuAfPFA&sclient=gws-wiz-serp)
