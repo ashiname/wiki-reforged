@@ -1,12 +1,12 @@
 My Little Pony: Friendship is Magic is an animated television series made by Hasbro. The main character group consists of Twilight Sparkle, Rarity, Rainbow Dash, Applejack, Fluttershy and Pinkie Pie, the group are called Mane Six by the fandom.
 
 # Twilight Sparkle
-Twilight Sparkle is a purple unicorn whose the main activity is studying, she studies friendship under Princess Celestia and is entitled to write periodic reports on her findings about friendship.
+Twilight Sparkle is a purple unicorn whose the main activity is studying. She studies under Princess Celestia and is entitled to write periodic reports on her findings about friendship.
 
-Twilight's Appearence:
+Twilight's Appearance (Season 1):
 
-<img src="https://static.wikia.nocookie.net/mlp/images/6/6c/Twilight_S2E25_cropped.png/revision/latest/scale-to-width-down/200?cb=20211016191356" alt="">
-
+<img src="https://static.wikia.nocookie.net/mlp/images/6/6c/Twilight_S2E25_cropped.png/revision/latest/scale-to-width-down/200?cb=20211016191356" alt="Twilight Sparkle Appearance in Season 1" style="display: block; margin: 0 auto">
+Twilight's main research subject is friendship itself, but she studies different topics as well, magic spells for example.
 
 - Rarity
 - Rainbow Dash
