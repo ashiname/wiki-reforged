@@ -1,13 +1,22 @@
-My Little Pony: Friendship is Magic is an animated television series made by Hasbro. The main character group consists of Twilight Sparkle, Rarity, Rainbow Dash, Applejack, Fluttershy and Pinkie Pie. This is the main group of characters and they are called "Mane Six" by the fandom.
+# My Little Pony: Friendship is Magic
 
-# Twilight Sparkle
+My Little Pony: Friendship is Magic is an animated television series made by Hasbro and written for Television by Lauren Faust.
+The main characters group consists of **6 ponies**: Twilight Sparkle, Rarity, Rainbow Dash, Applejack, Fluttershy and Pinkie Pie. They are called "Mane Six" by the fandom.
+
+## Twilight Sparkle
+It all begins with Twilight Sparkle.
+
+<hr>
+
 Twilight Sparkle is a purple unicorn whose the main activity is studying. She studies under Princess Celestia and is entitled to write periodic reports on her findings about friendship.
 
-Twilight's Appearance (Season 1):
+Twilight's Appearance (First seasons):
 
 <img src="https://static.wikia.nocookie.net/mlp/images/6/6c/Twilight_S2E25_cropped.png/revision/latest/scale-to-width-down/200?cb=20211016191356" alt="Twilight Sparkle Appearance in Season 1" style="display: block; margin: 0 auto">
-Twilight's main research subject is friendship itself, it's complexities and dynamics, but she studies different topics as well such as magic spells.
+Twilight's main research subject is friendship itself, it's complexities and dynamics, but she studies different topics as well such as magic spells and books.
 Twilight has an assistant who lives with her and it's entitled to help in her studies. He is a purple and green baby dragon called Spike.
+
+Early Spike's Appearance:
 
 <img src="https://i.redd.it/22wftv5t8bga1.jpg" alt="Spike My Little Pony G5" height="250"> 
 
