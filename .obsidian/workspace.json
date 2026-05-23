@@ -6,7 +6,7 @@
       {
         "id": "18eeb5307e81d9fa",
         "type": "tabs",
-        "dimension": 77.5089605734767,
+        "dimension": 83.4983498349835,
         "children": [
           {
             "id": "cdefa8b592801faf",
@@ -25,7 +25,7 @@
             }
           },
           {
-            "id": "e6848b30b7109d64",
+            "id": "ebbeb4d1c9604be5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -39,33 +39,34 @@
             }
           },
           {
-            "id": "2eb474f00ad33341",
+            "id": "ab8ea35fac942e24",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "the-peggies.md",
+                "file": "deca-dence.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "the-peggies"
+              "title": "deca-dence"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
-        "id": "d7ab14697d03a9fa",
+        "id": "304767c23cb4e1c2",
         "type": "tabs",
-        "dimension": 22.491039426523297,
+        "dimension": 16.5016501650165,
         "children": [
           {
-            "id": "0c31c8eccde387b8",
+            "id": "3569e84c1c4b1865",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "graph",
               "state": {},
+              "pinned": true,
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
@@ -143,6 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "unlinked.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +154,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for unlinked"
             }
           },
           {
@@ -229,11 +231,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "e6848b30b7109d64",
+  "active": "cdefa8b592801faf",
   "lastOpenFiles": [
-    "the-peggies.md",
-    "my-little-pony-g5.md",
+    "deca-dence.md",
     "unlinked.md",
+    "my-little-pony-g5.md",
+    "the-peggies.md",
     "README.md",
     "LICENSE"
   ]
