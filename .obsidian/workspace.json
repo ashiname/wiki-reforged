@@ -6,7 +6,7 @@
       {
         "id": "18eeb5307e81d9fa",
         "type": "tabs",
-        "dimension": 83.4983498349835,
+        "dimension": 83.49834983498349,
         "children": [
           {
             "id": "cdefa8b592801faf",
@@ -30,12 +30,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cars-index.html.md",
+                "file": "cars-index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "cars-index.html"
+              "title": "cars-index"
             }
           },
           {
@@ -66,8 +66,7 @@
               "title": "tv-tropes"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "304767c23cb4e1c2",
@@ -246,9 +245,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "3569e84c1c4b1865",
+  "active": "cdefa8b592801faf",
   "lastOpenFiles": [
-    "cars-index.html.md",
+    "cars-index.md",
     "unlinked.md",
     "glossary.md",
     "abbreviations.md",
