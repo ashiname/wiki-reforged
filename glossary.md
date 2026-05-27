@@ -1,5 +1,5 @@
 # Glossary
-*Glossary is a type of dictionary that correlated terms, names and etc.*
+*Glossary is a type of dictionary to the meaning of correlated terms, names, etc.* <br>
 **See Also:** [Siglas(PT)](abbreviations.md)
 ## China
 
