@@ -1,5 +1,5 @@
 # Siglas
-*Siglas e o significado de cada uma das letras dela.* <br>
+*Siglas e o significado do que elas representam.* <br>
 
 | Sigla          | Significado                                                   |
 | -------------- | ------------------------------------------------------------- |
