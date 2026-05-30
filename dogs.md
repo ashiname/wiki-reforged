@@ -1,5 +1,7 @@
 # Cachorros
-*Indicie de raças de cachorro.*
+
+Alguns exemplos de raças de cachorro: <br>
+Some examples of dog breeds:
 
 | Nome         | Foto                                                                                                                                                 |
 | ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------- |

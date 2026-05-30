@@ -36,4 +36,6 @@
 | BDSM           | Bondage Discipline Dominance Submission Sado-Masochism        |
 | AMOG           | Alpha Male Of The Group                                       |
 | RB, LB, RT, LT | (XBOX) Right Button, Left Button, Right Trigger, Left Trigger |
+| IFBB           | International Fitness and Bodybuilding Federation             |
+| WNBF           | World Natural Bodybuilding Federation                         |
 

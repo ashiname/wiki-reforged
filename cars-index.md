@@ -1,5 +1,7 @@
 # Cars
 *I don't know exactly what this is going to turn into yet. For now, just cataloging cars I find interesting for any reason.*
+
+*Eu não sei exatamente no que isso vai se transformar ainda. Por enquanto apenas catalogando carros que achei interessante por qualquer motivo.*
 ## 4x4
 
 | Marca                                                                                                                                           | Modelo | Foto                                                                                                                                                              |
