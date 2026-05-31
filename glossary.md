@@ -8,3 +8,9 @@
 | Xiaoting                                                  | Shen Xiaoting is a chinese singer. She is a member of the K-Pop girl group Kep1er.                                                                                                                              | [IG](https://www.instagram.com/whosxiaoting_/?hl=en) \| [Google](https://www.google.com/search?q=xiaoting) |
 | Xiaopang [IG](https://www.instagram.com/the_chinese_dog/) | refers to a famous viral dog best known for skits where his owner sneakily gives him food, like roast chicken, and then playfully accuses him of stealing it and call mom, he then gets angry and barks at him. | [CGTNEurope](https://www.youtube.com/shorts/yyUcfpfFGa4) [Video](https://www.instagram.com/p/DXKBglWD7mH)  |
 
+## Conceitos
+
+
+| Conceito     | O que é                                                                                                                                                                 |
+| ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Salto lógico Quando um indivíduo chega a uma conclusão que não é suficientemente apoiada por evidências sólidas; Conclusão precipitada que tem pouca ligação com os fatos presentes e  |
