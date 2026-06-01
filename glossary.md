@@ -14,6 +14,6 @@
 ## Conceitos
 
 
-| Conceito     | O que é                                                                                                                                                                 |
-| ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Salto lógico Quando um indivíduo chega a uma conclusão que não é suficientemente apoiada por evidências sólidas; Conclusão precipitada que tem pouca ligação com os fatos presentes e  |
+| Conceito     | O que é                                                                                                                                                                  |
+| ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Salto lógico | Quando um indivíduo chega a uma conclusão que não é suficientemente apoiada por evidências sólidas; Conclusão precipitada que tem pouca ligação com os fatos presentes e |
