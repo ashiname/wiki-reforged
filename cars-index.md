@@ -21,20 +21,4 @@
 | <img src="https://i.pinimg.com/736x/12/4d/74/124d748b5a9b67222f5e69859cc34e19.jpg" width="200">                                  | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxaX48HffKXW2CxON30uJSwPVvdAJLHTtxtIk61iJm2aZUD3sEBBmOVLuQ2Mq4SC1DJLY&usqp=CAU" width="230">                                            |                                                                                                                                        |
 | Corsa Pick-up                                                                                                                    | Corsa Tonga                                                                                                                                                                                             |                                                                                                                                        |
 
-## Carros engraçados
-
-
-| <img src="https://i.pinimg.com/736x/46/47/b0/4647b02994bd95afc96432cd3d9421c2.jpg" width="250">  | <img src="https://i.pinimg.com/736x/4a/33/40/4a3340f8cb0794cd485fde5fcd26184f.jpg" width="250">      | <img src="https://i.pinimg.com/736x/10/38/c7/1038c76b7cb5d944aa740cc8ddd28270.jpg" width="250"> |
-| ------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
-| Toyota Sprinter Trueno                                                                           | Toyota Supra                                                                                         | Mitsubishi Eclipse                                                                              |
-| <img src="https://i.pinimg.com/736x/72/f4/20/72f4209df16bc6d137460f1f0a4a9ed7.jpg" width="250">  | <img src="https://i.pinimg.com/736x/26/3f/ef/263fef10e860afc5a22d377172e45baa.jpg" width="250">      | <img src="https://i.pinimg.com/736x/34/49/96/344996febc4d25d9801dfcde0e4657eb.jpg" width="250"> |
-| Nissan Skyline                                                                                   | Lamborghini Gallardo                                                                                 | Lamborghini Aventador                                                                           |
-| <img src="https://i.pinimg.com/1200x/0a/6a/bd/0a6abd38d6191910b9585f5c04ec3869.jpg" width="250"> | <img src="https://i.pinimg.com/736x/30/b1/23/30b12378829723bef299e80fe6431c33.jpg" width="250">      | <img src="https://i.pinimg.com/736x/ef/2a/d8/ef2ad894d8a880475b2e4061c91914f9.jpg" width="250"> |
-| Mazda Miata                                                                                      | Subaru Impreza                                                                                       | Toyota Corolla                                                                                  |
-| <img src="https://i.pinimg.com/736x/9d/e6/45/9de645e6eeb1834731664be30ea5882d.jpg" width="250">  | <img src="https://i.pinimg.com/1200x/33/37/ba/3337ba2b7df0d2d05bcbd1c357fef177.jpg" width="250"><br> | <img src="https://i.pinimg.com/736x/f5/a9/9b/f5a99b96e72af5470e433881ae18facb.jpg" width="250"> |
-| Honda Civic                                                                                      | Volkswagen Jetta                                                                                     | Jeep Renegade                                                                                   |
-| <img src="https://i.pinimg.com/736x/63/9b/8c/639b8cacfbc3215c8edeebac3692a8ed.jpg" width="250">  | <img src="https://i.pinimg.com/1200x/ee/d7/9a/eed79a1f7d38e4d9fcac02f041dd4ae2.jpg" width="250"><br> | <img src="https://i.pinimg.com/736x/17/fc/62/17fc623bca86e79c0c36b82947f69dcf.jpg" width="250"> |
-| Dodge Ram                                                                                        | Chevrolet Silverado                                                                                  | Volkswagen Saveiro                                                                              |
-
-
-
+## [Carros engraçados](cars-2.md)
