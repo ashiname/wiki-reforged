@@ -2,8 +2,8 @@
 *I don't know exactly what this is going to turn into yet. For now, just cataloging cars I find interesting for any reason.*
 
 *Eu não sei exatamente no que isso vai se transformar ainda. Por enquanto apenas catalogando carros que achei interessante por qualquer motivo.*
-## 4x4 das ruas brasileiras
 
+## 4x4 das ruas brasileiras
 | Marca                                                                                                                                           | Modelo | Foto                                                                                                                                                              |
 | ----------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <img src="https://cdn.freebiesupply.com/logos/large/2x/volkswagen-10-logo-png-transparent.png" height="30"> Volkswagen                          | Amarok | <img src="https://upload.wikimedia.org/wikipedia/commons/8/80/2017_Volkswagen_Amarok_Highline_V6_TDi_facelift_3.0.jpg" width="300">                               |
@@ -12,7 +12,6 @@
 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Mitsubishi_logo.svg/1280px-Mitsubishi_logo.svg.png" height="30"> Mitsubishi | Triton | <img src="https://quatrorodas.abril.com.br/wp-content/uploads/2024/11/autowp.ru_mitsubishi_l200_triton_br-spec_2.jpg?crop=1&resize=1212,909" width="300">         |
 
 ## Corsa
-
 | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1QAzB7dd9c1gTt_ydW1e9-kDU-NGcc4HQzw&s" width="200">             | <img src="https://i.ytimg.com/vi/ipkQAAOlvMI/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDiXVfZJx1eBcG5LA4dIM5uWig0UA" width="230">                                     | <img src="https://cdn.buttercms.com/WOhWMagHQ6Wr9gnsT1VC" width="200">                                                                 |
 | -------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
 | Corsa Wind 1.0                                                                                                                   | Corsa Sedan 2000                                                                                                                                                                                        | Corsa Sedan 1995-2005<br>                                                                                                              |

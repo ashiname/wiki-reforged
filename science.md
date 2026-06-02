@@ -43,7 +43,7 @@ Alguns tipos sanguíneos são:
 
 
 ## PEDs
-*PEDs should not be used by humans under <mark>ANY</mark> circunstance. I am not by any means encouraging the use, they are listed here just for catalog purposes.*
+*These substances should not be used without a medical prescription, specially for aesthetic purposes. <br> Some of these compounds are not approved for human use at all. This information is strictly for educational and cataloging purposes and does not constitute medical advice or encourage use.*
 
 | Tipo                         |
 | ---------------------------- |
