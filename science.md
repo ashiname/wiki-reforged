@@ -26,10 +26,10 @@ Alguns tipos sanguíneos são:
 | Dipirona                  |                                                                                       |                                                                             |
 
 ## Neurotransmissores
-| Name       |     |
-| ---------- | --- |
-| Dopamina   |     |
-| Serotonina |     |
+| Name       |
+| ---------- |
+| Dopamina   |
+| Serotonina |
 
 ## Vitaminas
 | Complexo | Found                                                 | Contribui                                                 | Ref.                                                            |
