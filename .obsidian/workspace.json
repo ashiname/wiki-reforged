@@ -55,7 +55,7 @@
               "state": {
                 "file": "society.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "society"
@@ -76,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -237,10 +237,10 @@
       "random-note:Open random note": false
     }
   },
-  "active": "3c5ba40a4e2380d7",
+  "active": "12c8c341501cb4fb",
   "lastOpenFiles": [
-    "society.md",
     "bangladesh-dhaka.md",
+    "society.md",
     "humans.md",
     "science.md",
     "fauna.md",
