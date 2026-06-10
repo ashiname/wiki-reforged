@@ -25,6 +25,30 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "my-little-pony-g5.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "my-little-pony-g5"
+            }
+          },
+          {
+            "id": "1f326bcd4f2784d3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "d711e474d24c8a12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "unlinked.md",
                 "mode": "source",
                 "source": false
@@ -34,7 +58,7 @@
             }
           },
           {
-            "id": "049b6276ae4cb7b0",
+            "id": "cbaf2a925fcf02a9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -48,35 +72,35 @@
             }
           },
           {
-            "id": "12c8c341501cb4fb",
+            "id": "623e5f99a1b4c93c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "society.md",
+                "file": "coffee.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "society"
+              "title": "coffee"
             }
           },
           {
-            "id": "3c5ba40a4e2380d7",
+            "id": "9d540f70211e3047",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bangladesh-dhaka.md",
+                "file": "banana.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "bangladesh-dhaka"
+              "title": "banana"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -237,16 +261,18 @@
       "random-note:Open random note": false
     }
   },
-  "active": "12c8c341501cb4fb",
+  "active": "9d540f70211e3047",
   "lastOpenFiles": [
+    "flora.md",
+    "banana.md",
+    "coffee.md",
+    "unlinked.md",
+    "my-little-pony-g5.md",
+    "fauna.md",
     "bangladesh-dhaka.md",
     "society.md",
     "humans.md",
     "science.md",
-    "fauna.md",
-    "flora.md",
-    "coffee.md",
-    "unlinked.md",
     "media.md",
     "twice.md",
     "cars-index.md",
@@ -263,7 +289,6 @@
     "personas.md",
     "dietary-fiber.md",
     "index.md",
-    "my-little-pony-g5.md",
     "LICENSE"
   ]
 }
