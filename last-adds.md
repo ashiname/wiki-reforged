@@ -3,6 +3,8 @@
 
 | Data       | Hora  | Item                                                                       |
 | ---------- | ----- | -------------------------------------------------------------------------- |
+| 2026-08-23 | 14:21 | [Dosador Vodka](vodka-tampa.md)                                            |
+| 2026-08-23 | 14:09 | [Sereias](mermaids.md)                                                     |
 | 2026-08-16 | 10:46 | [Samurai](samurai.md)                                                      |
 | 2026-08-16 | 10:37 | [Aedes Aegypti](aedes-aegypti.md)                                          |
 | 2026-08-09 | 14:33 | [coffee](coffee.md)                                                        |
